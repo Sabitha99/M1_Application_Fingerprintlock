@@ -33,7 +33,7 @@ void test_deletefingerprint(void)
    
 }
 
-void test_searchrecords(void)
+void test_searchfingerprint(void)
 {
    lcd.setCursor(0, 0);
    lcd.printf("search for match");
@@ -41,7 +41,7 @@ void test_searchrecords(void)
    
 }
 
-void test_addrecords(void)
+void test_addfingerprints(void)
 {
    lcd.setCursor(0, 0);
    lcd.printf("Not Valid Finger");
