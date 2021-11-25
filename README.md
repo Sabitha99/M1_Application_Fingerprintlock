@@ -8,3 +8,7 @@ Electronic lock using fingerprint recognition system is a process of verifying t
 ![Code Quality](https://api.codiga.io/project/30075/score/svg)
 
 ![Code Grade](https://api.codiga.io/project/30075/status/svg)
+
+## Linux
+
+[![Linux C/C++ CI](https://github.com/Sabitha99/M1_Application_Fingerprintlock/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/Sabitha99/M1_Application_Fingerprintlock/actions/workflows/Linux_c-cpp.yml)
