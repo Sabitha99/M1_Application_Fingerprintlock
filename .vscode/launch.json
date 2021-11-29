@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "cwd": "c:/Users/Lenovo/Documents/GitHub/M1_Application_Fingerprintlock/3_implementation",
       "environment": [],
-      "program": "c:/Users/Lenovo/Documents/GitHub/M1_Application_Fingerprintlock/3_implementation/build/Release/outRelease",
+      "program": "c:/Users/Lenovo/Documents/GitHub/M1_Application_Fingerprintlock/3_implementation/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
